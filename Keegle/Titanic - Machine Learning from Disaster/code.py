@@ -4,7 +4,7 @@ Created on Wed Mar 27 18:33:38 2024
 
 @author: Lucas Friedrich
 
-Score - Score: 0.76555
+Score: 0.77511
 """
 
 from sklearn.ensemble import RandomForestClassifier
